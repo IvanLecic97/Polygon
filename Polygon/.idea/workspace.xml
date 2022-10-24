@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4058d9-6a3f-4505-af5b-54f8d3c0dc73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24Wmn5FtWhazdtSvoXnrlE7oZ6v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.polygon.Main" />
+      <module name="Polygon" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4058d9-6a3f-4505-af5b-54f8d3c0dc73" name="Default Changelist" comment="" />
+      <created>1643754880290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643754880290</updated>
+      <workItem from="1643754886945" duration="1494000" />
+      <workItem from="1643807539703" duration="5782000" />
+      <workItem from="1643844819914" duration="4000" />
+      <workItem from="1643889151599" duration="5382000" />
+      <workItem from="1643978725910" duration="7065000" />
+      <workItem from="1643992673267" duration="17370000" />
+      <workItem from="1644061399811" duration="783000" />
+      <workItem from="1644062305028" duration="11000" />
+      <workItem from="1646741019986" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1644011407070">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1644011407070" />
+    <state width="1557" height="180" key="GridCell.Tab.0.bottom" timestamp="1644062188739">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="180" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1644062188739" />
+    <state width="1557" height="180" key="GridCell.Tab.0.center" timestamp="1644062188737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="180" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1644062188737" />
+    <state width="1557" height="180" key="GridCell.Tab.0.left" timestamp="1644062188737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="180" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1644062188737" />
+    <state width="1557" height="180" key="GridCell.Tab.0.right" timestamp="1644062188738">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="180" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1644062188738" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1643890576610">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1643890576610" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Polygon$Main.ic" NAME="Main Coverage Results" MODIFIED="1643812365995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
